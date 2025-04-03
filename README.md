@@ -1,10 +1,10 @@
-## README - Báo Cáo Phân Tích Thiết Kế Hệ Thống
+# README - Báo Cáo Phân Tích Thiết Kế Hệ Thống
 
-***1. Giới thiệu***
+## ***1. Giới thiệu***
 
 Đây là báo cáo về đề tài "Phân tích thiết kế hệ thống quản lý bán hàng siêu thị mini", được thực hiện trong khuôn khổ môn học Phân tích thiết kế hướng đối tượng.
 
-2. Mục tiêu
+## ***2. Mục tiêu***
 
 Ứng dụng phương pháp phân tích và thiết kế hướng đối tượng để xây dựng hệ thống phần mềm.
 
