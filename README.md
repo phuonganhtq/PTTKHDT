@@ -12,7 +12,7 @@ Nâng cao hiệu suất quản lý bán hàng, hàng hóa, đơn đặt hàng v�
 
 Giúp thành viên nhóm nâng cao kỹ năng phân tích và phát triển phần mềm thực tế.
 
-3. Phạm vi
+## ***3. Phạm vi***
 
 Xây dựng phần mềm sử dụng mô hình thác nước.
 
@@ -20,7 +20,7 @@ Công nghệ sử dụng: C#, SQL Server.
 
 Hệ thống bao gồm quản lý bán hàng, quản lý đơn hàng, xuất hóa đơn, không tập trung vào quản lý nhân sự.
 
-4. Chức năng chính
+## ***4. Chức năng chính***
 
 Quản lý sản phẩm: Nhập hàng, chỉnh sửa thông tin sản phẩm, xóa sản phẩm.
 
@@ -30,7 +30,7 @@ Quản lý hóa đơn: Xuất hóa đơn, in hóa đơn, xem danh sách hóa đ�
 
 Báo cáo & Thống kê: Xuất dữ liệu ra file Excel.
 
-5. Phương pháp thực hiện
+## ***5. Phương pháp thực hiện***
 
 Thu thập yêu cầu từ người dùng thông qua khảo sát.
 
@@ -40,13 +40,13 @@ Xây dựng cơ sở dữ liệu với SQL Server.
 
 Phát triển giao diện thân thiện, dễ sử dụng.
 
-6. Kết quả đạt được
+## ***6. Kết quả đạt được***
 
 Hoàn thành thiết kế và triển khai phần mềm đáp ứng yêu cầu cơ bản.
 
 Đảm bảo hệ thống hoạt động ổn định, có khả năng mở rộng.
 
-7. Hướng phát triển
+## ***7. Hướng phát triển***
 
 Bổ sung tính năng quản lý nhân viên.
 
